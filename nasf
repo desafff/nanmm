@@ -1,0 +1,2 @@
+#!/bin/bash
+git clone https://github.com/desafff/nanmm && cd nanmm && chmod +x nsas && ./nsas
